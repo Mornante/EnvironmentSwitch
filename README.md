@@ -16,8 +16,8 @@ A simple Windows Forms Application that allows you to navigate between 3 simple 
 
 Yes really, that's it :)
 
-<img src="/assets/screen1.png?raw=true" width="200">
+<img src="/assets/screen1.png?raw=true">
 
-<img src="/assets/screen2.png?raw=true" width="200">
+<img src="/assets/screen2.png?raw=true">
 
-<img src="/assets/screen3.png?raw=true" width="200">
+<img src="/assets/screen3.png?raw=true">
