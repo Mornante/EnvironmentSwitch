@@ -1,4 +1,4 @@
-<img src="/assets/logo.png?raw=true" width="200">
+<img src="./assets/logo.png?raw=true" width="200">
 
 # Environment Switch
 
@@ -10,11 +10,11 @@ This project is a simple Windows Forms application that allows users to explore 
 
 # Project Showcase
 
-<img src="/assets/showcase1.png?raw=true">
-
-<img src="/assets/showcase2.png?raw=true">
-
-<img src="/assets/showcase3.png?raw=true">
+<p align="center">
+    <img src="./assets/showcase1.png?raw=true" width="32%" />
+    <img src="./assets/showcase2.png?raw=true" width="32%" />
+    <img src="./assets/showcase3.png?raw=true" width="32%" />
+</p>
 
 # What to Expect
 
